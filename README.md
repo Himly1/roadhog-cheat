@@ -12,5 +12,5 @@ honestly, I don't know much about game hacking, it is not my purpose to build an
 2.should choose the enemy which close enough to your alignment
 
 # Show time
-
+click the image to play the video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JnLorFiUGWA/0.jpg)](https://www.youtube.com/watch?v=JnLorFiUGWA)
